@@ -1,5 +1,16 @@
 # Hi there, I’m Kaden Rettig 🐌
-
+```
+              ＿＿
+　　　 　　 ／＞　　フ
+　　　 　　| 　_　 _|
+　 　　 　／` ミ＿xノ
+　　 　 /　　　 　 |             <--- my cat iris
+　　　 /　 ヽ　　 ﾉ
+　 　 │　　|　|　|
+　／￣|　　 |　|　|
+　| (￣ヽ＿_ヽ_)__)
+　＼二つ 
+```
 ## About Me: 🌻
 
 I am a senior CS Undergraduate student studying at **Clemson University**. </br>
