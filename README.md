@@ -1,4 +1,4 @@
-# Hi there 👋, I’m Kaden Rettig. Welcome to my GitHub :
+# Hi there 👋, I’m Kaden Rettig. Welcome to my GitHub ☕:
 ```
               ＿＿
 　　　 　　 ／＞　　フ                                                 Zzzzz  |\      _,,,--,,_
@@ -18,7 +18,7 @@
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=kadenrettig&repo=oregano&show_owner=false&theme=dracula" />
     </a>
     <a style="text-decoration: none" align="left" href="https://github.com/kadenrettig/Super-Pong">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=kadenrettig&repo=Super-Pong&show_owner=true&theme=dracula" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=kadenrettig&repo=Super-Pong&show_owner=false&theme=dracula" />
     </a>
   </p>
 </details>
