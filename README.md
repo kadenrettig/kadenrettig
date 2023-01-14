@@ -1,4 +1,4 @@
-# Hi there, I’m Kaden Rettig 🐌
+# Hi there 👋, I’m Kaden Rettig. Welcome to my GitHub :
 ```
               ＿＿
 　　　 　　 ／＞　　フ                                                 Zzzzz  |\      _,,,--,,_
@@ -11,9 +11,33 @@
 　| (￣ヽ＿_ヽ_)__)
 　＼二つ 
 ```
+<details>
+    <summary> <b> <samp>🔨 What I'm Working On </samp></b></summary>
+  <p>
+    <a style="text-decoration: none" align="left" href="https://github.com/kadenrettig/oregano">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=kadenrettig&repo=oregano&show_owner=false&theme=dracula" />
+    </a>
+    <a style="text-decoration: none" align="left" href="https://github.com/kadenrettig/Super-Pong">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=kadenrettig&repo=Super-Pong&show_owner=true&theme=dracula" />
+    </a>
+  </p>
+</details>
+<details>
+  <summary> <b> <samp>🧮 Github Stats </samp></b></summary>
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api?username=kadenrettig&count_private=true&show_icons=true&include_all_commits=true&theme=dracula">
+   </p>
+ </details>
+ <details>
+  <summary> <b> <samp>🗣 Language Stats </samp></b></summary>
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kadenrettig&hide=TeX&layout=compact&theme=dracula">
+   </p>
+</details>
+ 
 ## About Me: 💾
 I am a senior CS Undergraduate student studying at **Clemson University**, graduating in May of 2023. </br>
-I'm currently working as a member of **Clemson Computing & Information Technology (CCIT)**.
+I'm currently working part-time as a member of **CCIT (Clemson Computing & Information Technology)**.
 
 I enjoy learning about new technologies and helping people. </br>
 
