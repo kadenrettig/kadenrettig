@@ -1,16 +1,27 @@
 # Hi there 👋, I’m Kaden Rettig. Welcome to my GitHub ☕:
 ```
-              ＿＿
-　　　 　　 ／＞　　フ                                                 Zzzzz  |\      _,,,--,,_
-　　　 　　| 　_　 _|                             my cat lily --->           /,`.-'`'   ._  \-;;,_
-　 　　 　／` ミ＿xノ                                                       |,4-  ) )_   .;.(  `'-'
-　　 　 /　　　 　 |                                                       '---''(_/._)-'(_\_)
+               __
+　　　 　　 ／＞　　フ                                                                                  Zzzzz  |\      _,,,--,,_
+　　　 　　| 　_　 _|                                                             my cat lily --->           /,`.-'`'   ._  \-;;,_
+　 　　 　／` ミ＿xノ                                                                                       |,4-  ) )_   .;.(  `'-'
+　　 　 /　　　 　 |                                                                                        '---''(_/._)-'(_\_)
 　　　 /　 ヽ　　 ﾉ
 　 　 │　　|　|　|       <--- my cat iris
 　／￣|　　 |　|　|
 　| (￣ヽ＿_ヽ_)__)
 　＼二つ 
 ```
+## About Me: 💾
+I am a senior CS Undergraduate student studying at **Clemson University**, graduating in May of 2023. </br>
+I'm currently working part-time as a member of **CCIT (Clemson Computing & Information Technology)**.
+
+I enjoy learning about new technologies and helping people. </br>
+
+I have a passion for music; exploring new genres & observing the subtleties of what I already </br> 
+listen to is what one of the things I enjoy most.
+
+Currently learning about Unity and more web development technologies, like Node.js and Express. 🎍
+
 <details open>
     <summary> <b> <samp>🔨 What I'm Working On </samp></b></summary>
   <p>
@@ -34,17 +45,6 @@
     <img src="https://github-readme-stats-alpha-two-97.vercel.app/api/top-langs/?username=kadenrettig&hide=TeX&layout=compact&theme=dracula">
    </p>
 </details>
- 
-## About Me: 💾
-I am a senior CS Undergraduate student studying at **Clemson University**, graduating in May of 2023. </br>
-I'm currently working part-time as a member of **CCIT (Clemson Computing & Information Technology)**.
-
-I enjoy learning about new technologies and helping people. </br>
-
-I have a passion for music; exploring new genres & observing the subtleties of what I already </br> 
-listen to is what one of the things I enjoy most.
-
-Currently learning about Unity and more web development technologies, like Node.js and Express. 🎍
 
 ## How to Reach Me 🌐
 📝 Check out my personal website [here](https://oregano.surge.sh) </br>
