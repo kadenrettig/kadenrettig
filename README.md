@@ -15,23 +15,23 @@
     <summary> <b> <samp>🔨 What I'm Working On </samp></b></summary>
   <p>
     <a style="text-decoration: none" align="left" href="https://github.com/kadenrettig/oregano">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=kadenrettig&repo=oregano&show_owner=false&theme=dracula" />
+        <img src="https://github-readme-stats-alpha-two-97.vercel.app/api/pin/?username=kadenrettig&repo=oregano&show_owner=false&theme=dracula" />
     </a>
     <a style="text-decoration: none" align="left" href="https://github.com/kadenrettig/Super-Pong">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=kadenrettig&repo=Super-Pong&show_owner=false&theme=dracula" />
+        <img src="https://github-readme-stats-alpha-two-97.vercel.app/api/pin/?username=kadenrettig&repo=Super-Pong&show_owner=false&theme=dracula" />
     </a>
   </p>
 </details>
 <details>
   <summary> <b> <samp>🧮 Github Stats </samp></b></summary>
   <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=kadenrettig&count_private=true&show_icons=true&include_all_commits=true&theme=dracula">
+    <img src="https://github-readme-stats-alpha-two-97.vercel.app/api?username=kadenrettig&count_private=true&show_icons=true&include_all_commits=true&theme=dracula">
    </p>
  </details>
  <details>
   <summary> <b> <samp>🗣 Language Stats </samp></b></summary>
   <p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kadenrettig&hide=TeX&layout=compact&theme=dracula">
+    <img src="https://github-readme-stats-alpha-two-97.vercel.app/api/top-langs/?username=kadenrettig&hide=TeX&layout=compact&theme=dracula">
    </p>
 </details>
  
