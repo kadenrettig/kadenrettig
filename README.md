@@ -11,7 +11,7 @@
 　| (￣ヽ＿_ヽ_)__)
 　＼二つ 
 ```
-<details>
+<details open>
     <summary> <b> <samp>🔨 What I'm Working On </samp></b></summary>
   <p>
     <a style="text-decoration: none" align="left" href="https://github.com/kadenrettig/oregano">
