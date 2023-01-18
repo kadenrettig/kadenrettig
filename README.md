@@ -47,5 +47,5 @@ Currently learning about Unity and more web development technologies, like Node.
 </details>
 
 ## How to Reach Me 🌐
-📝 Check out my personal website [here](https://oregano.surge.sh) </br>
+📝 Check out my personal website [here](https://kadenrettig.github.io) </br>
 🤝 Find me expanding my network on [LinkedIn](https://www.linkedin.com/in/kadenrettig/)
