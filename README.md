@@ -25,8 +25,8 @@ Currently learning about Unity and more web development technologies, like Node.
 <details open>
     <summary> <b> <samp>🔨 What I'm Working On </samp></b></summary>
   <p>
-    <a style="text-decoration: none" align="left" href="https://github.com/kadenrettig/oregano">
-        <img src="https://github-readme-stats-alpha-two-97.vercel.app/api/pin/?username=kadenrettig&repo=oregano&show_owner=false&theme=gruvbox" />
+    <a style="text-decoration: none" align="left" href="https://github.com/kadenrettig/kadenrettig.github.io">
+        <img src="https://github-readme-stats-alpha-two-97.vercel.app/api/pin/?username=kadenrettig&repo=kadenrettig.github.io&show_owner=false&theme=gruvbox" />
     </a>
     <a style="text-decoration: none" align="left" href="https://github.com/kadenrettig/Super-Pong">
         <img src="https://github-readme-stats-alpha-two-97.vercel.app/api/pin/?username=kadenrettig&repo=Super-Pong&show_owner=false&theme=gruvbox" />
