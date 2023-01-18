@@ -28,8 +28,8 @@ Currently learning about Unity and more web development technologies, like Node.
     <a style="text-decoration: none" align="left" href="https://github.com/kadenrettig/kadenrettig.github.io">
         <img src="https://github-readme-stats-alpha-two-97.vercel.app/api/pin/?username=kadenrettig&repo=kadenrettig.github.io&show_owner=false&theme=gruvbox" />
     </a>
-    <a style="text-decoration: none" align="left" href="https://github.com/kadenrettig/Super-Pong">
-        <img src="https://github-readme-stats-alpha-two-97.vercel.app/api/pin/?username=kadenrettig&repo=Super-Pong&show_owner=false&theme=gruvbox" />
+    <a style="text-decoration: none" align="left" href="https://github.com/kadenrettig/super-pong">
+        <img src="https://github-readme-stats-alpha-two-97.vercel.app/api/pin/?username=kadenrettig&repo=super-pong&show_owner=false&theme=gruvbox" />
     </a>
   </p>
 </details>
