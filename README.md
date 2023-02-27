@@ -20,7 +20,7 @@ I enjoy learning about new technologies and helping people. </br>
 I have a passion for music; exploring new genres & observing the subtleties of what I already </br> 
 listen to is what one of the things I enjoy most.
 
-Currently learning about Unity and more web development technologies, like Node.js and Express. 🎍
+Currently learning about Unity, AWS services like Elastic beanstalk, and more web development technologies, like Django. 🎍
 
 <details open>
     <summary> <b> <samp>🔨 What I'm Working On </samp></b></summary>
