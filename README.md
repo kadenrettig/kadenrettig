@@ -12,15 +12,13 @@
 　＼二つ 
 ```
 ## About Me: 💾
-I am a senior CS Undergraduate student studying at **Clemson University**, graduating in May of 2023. </br>
-I'm currently working part-time as a member of **CCIT (Clemson Computing & Information Technology)**.
-
-I enjoy learning about new technologies and helping people. </br>
+I like creating games in my free time, including writing code, modeling, and designing game mechanics. </br>
+Generally, I enjoy learning about new technologies and helping people. </br>
 
 I have a passion for music; exploring new genres & observing the subtleties of what I already </br> 
 listen to is what one of the things I enjoy most.
 
-Currently learning about Unity, AWS services like Elastic beanstalk, and more web development technologies, like Django. 🎍
+Currently developing projects in Unity, GoDot, and learning how to use Blender more in my spare time. 🎍
 
 <details open>
     <summary> <b> <samp>🔨 What I'm Working On </samp></b></summary>
