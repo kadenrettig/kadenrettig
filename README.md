@@ -24,23 +24,23 @@ Currently developing projects in Unity, GoDot, and learning how to use Blender m
     <summary> <b> <samp>🔨 What I'm Working On </samp></b></summary>
   <p>
     <a style="text-decoration: none" align="left" href="https://github.com/kadenrettig/kadenrettig.github.io">
-        <img src="https://github-readme-stats-alpha-two-97.vercel.app/api/pin/?username=kadenrettig&repo=kadenrettig.github.io&show_owner=false&theme=gruvbox" />
+        <img src="https://github-readme-stats-alpha-two-97.vercel.app/api/pin/?username=kadenrettig&repo=kadenrettig.github.io&show_owner=false&theme=dark" />
     </a>
     <a style="text-decoration: none" align="left" href="https://github.com/kadenrettig/super-pong">
-        <img src="https://github-readme-stats-alpha-two-97.vercel.app/api/pin/?username=kadenrettig&repo=super-pong&show_owner=false&theme=gruvbox" />
+        <img src="https://github-readme-stats-alpha-two-97.vercel.app/api/pin/?username=kadenrettig&repo=super-pong&show_owner=false&theme=dark" />
     </a>
   </p>
 </details>
 <details>
   <summary> <b> <samp>🧮 Github Stats </samp></b></summary>
   <p>
-    <img src="https://github-readme-stats-alpha-two-97.vercel.app/api?username=kadenrettig&count_private=true&show_icons=true&include_all_commits=true&theme=gruvbox">
+    <img src="https://github-readme-stats-alpha-two-97.vercel.app/api?username=kadenrettig&count_private=true&show_icons=true&include_all_commits=true&theme=dark">
    </p>
  </details>
  <details>
   <summary> <b> <samp>🗣 Language Stats </samp></b></summary>
   <p>
-    <img src="https://github-readme-stats-alpha-two-97.vercel.app/api/top-langs/?username=kadenrettig&hide=TeX&layout=compact&theme=gruvbox">
+    <img src="https://github-readme-stats-alpha-two-97.vercel.app/api/top-langs/?username=kadenrettig&hide=TeX&layout=compact&theme=dark">
    </p>
 </details>
 
