@@ -23,11 +23,11 @@ Currently developing projects in Unity, GoDot, and learning how to use Blender m
 <details open>
     <summary> <b> <samp>🔨 What I'm Working On </samp></b></summary>
   <p>
+    <a style="text-decoration: none" align="left" href="https://github.com/kadenrettig/Fox-Dash">
+        <img src="https://github-readme-stats-alpha-two-97.vercel.app/api/pin/?username=kadenrettig&repo=Fox-Dash&show_owner=false&theme=dark" />
+    </a>
     <a style="text-decoration: none" align="left" href="https://github.com/kadenrettig/kadenrettig.github.io">
         <img src="https://github-readme-stats-alpha-two-97.vercel.app/api/pin/?username=kadenrettig&repo=kadenrettig.github.io&show_owner=false&theme=dark" />
-    </a>
-    <a style="text-decoration: none" align="left" href="https://github.com/kadenrettig/super-pong">
-        <img src="https://github-readme-stats-alpha-two-97.vercel.app/api/pin/?username=kadenrettig&repo=super-pong&show_owner=false&theme=dark" />
     </a>
   </p>
 </details>
