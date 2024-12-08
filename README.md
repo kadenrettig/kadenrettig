@@ -1,4 +1,4 @@
-# Hi there 👋, I’m Kaden Rettig. Welcome to my GitHub ☕:
+# Hi there 👋, I’m Kaden Rettig. Welcome in ☕:
 ```
                __
 　　　 　　 ／＞　　フ                                                                      Zzzzz  |\      _,,,--,,_
