@@ -18,7 +18,7 @@ Generally, I enjoy learning about new technologies and helping people. </br>
 I have a passion for music; exploring new genres & observing the subtleties of what I already </br> 
 listen to is what one of the things I enjoy most.
 
-Currently developing projects in Unity, GoDot, and learning how to use Blender more in my spare time. 🎍
+Currently developing projects in Unity, GoDot, and drawing pixel art in my spare time. 🎍
 
 <details open>
     <summary> <b> <samp>🔨 What I'm Working On </samp></b></summary>
