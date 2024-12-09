@@ -1,10 +1,10 @@
-# Hi there 👋, I’m Kaden Rettig. Welcome in ☕:
+# Hi there 👋, I’m Kaden Rettig ☕:
 ```
                __
-　　　 　　 ／＞　　フ                                                                      Zzzzz  |\      _,,,--,,_
-　　　 　　| 　_　 _|                                                  my cat lily --->           /,`.-'`'   ._  \-;;,_
-　 　　 　／` ミ＿xノ                                                                             |,4-  ) )_   .;.(  `'-'
-　　 　 /　　　 　 |                                                                              '---''(_/._)-'(_\_)
+　　　 　　 ／＞　　フ                                                                     Zzzzz  |\      _,,,--,,_
+　　　 　　| 　_　 _|                                                 my cat lily --->           /,`.-'`'   ._  \-;;,_
+　 　　 　／` ミ＿xノ                                                                            |,4-  ) )_   .;.(  `'-'
+　　 　 /　　　 　 |                                                                             '---''(_/._)-'(_\_)
 　　　 /　 ヽ　　 ﾉ
 　 　 │　　|　|　|       <--- my cat iris
 　／￣|　　 |　|　|
@@ -12,13 +12,13 @@
 　＼二つ 
 ```
 ## About Me: 💾
-I like creating games in my free time, including writing code, modeling, and designing game mechanics. </br>
+I like creating games in my free time, including writing code, making art assets, and designing game mechanics. </br>
 Generally, I enjoy learning about new technologies and helping people. </br>
 
-I have a passion for music; exploring new genres & observing the subtleties of what I already </br> 
-listen to is what one of the things I enjoy most.
+I have a passion for music; I love finding new music & genres, but I also love observing the subtleties of what </br> 
+I already listen to.
 
-Currently developing projects in Unity, GoDot, and drawing pixel art in my spare time. 🎍
+Currently developing projects in Unity & GoDot, and drawing pixel art in my spare time. 🎍
 
 <details open>
     <summary> <b> <samp>🔨 What I'm Working On </samp></b></summary>
@@ -46,4 +46,4 @@ Currently developing projects in Unity, GoDot, and drawing pixel art in my spare
 
 ## How to Reach Me 🌐
 📝 Check out my personal website [here](https://kadenrettig.github.io) </br>
-🤝 Find me expanding my network on [LinkedIn](https://www.linkedin.com/in/kadenrettig/)
+🤝 Connect with me on [LinkedIn](https://www.linkedin.com/in/kadenrettig/)
