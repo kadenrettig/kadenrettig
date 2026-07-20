@@ -23,7 +23,7 @@ Currently developing projects in Unity & GoDot, and drawing digital art in my sp
     <summary> <b> <samp>🔨 What I'm Working On </samp></b></summary>
   <p>
     <a style="text-decoration: none" align="left" href="https://github.com/kadenrettig/Fox-Dash">
-        //<img src="https://github-readme-stats-alpha-two-97.vercel.app/api/pin/?username=kadenrettig&repo=Fox-Dash&show_owner=false&theme=dark" />
+        <!--- <img src="https://github-readme-stats-alpha-two-97.vercel.app/api/pin/?username=kadenrettig&repo=Fox-Dash&show_owner=false&theme=dark" /> --->
         NA
     </a>
   </p>
